@@ -31,9 +31,15 @@ To run this code, download the zip file, or use GitHub's guidelines to clone the
 * Node.js
 * Run ``` npm i ``` command to install Inquirer or any other node packages needed.
 
-# Usage
-1.Run ``` node server ``` terminal command to start local server.
 
+# Front - End Usage
+Live Demo: https://evening-peak-72687.herokuapp.com/
+
+# Back - End Usage
+1.Run ``` node server ``` terminal command to start local server.
+2.Open Browser Type: localhost:3001
+3.App Should be running locally.
+4.To view Notes Data go to folder "db" open file "db.json".
 
 # Built&nbsp;With
 * [Visual Studios](https://visualstudio.microsoft.com/)
