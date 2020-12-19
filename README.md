@@ -4,7 +4,7 @@
 <h3>Preview:</h3>
 
 <p align="center">
-  <img src="#" height="40%" width="50%" title="NoteTaker Preview">
+  <img src="https://github.com/egitweb/NoteTaker/blob/main/note-taker-preview.png?raw=true" height="40%" width="50%" title="NoteTaker Preview">
  
  [Click here to view Video](#)
 </p>
