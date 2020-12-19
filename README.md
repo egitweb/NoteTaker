@@ -1,5 +1,4 @@
 # NoteTaker
-<h2>Getting Started</h2>
 <p>This application can be used to write, save, and delete notes. The application will use an express backend to save and retrieve note data from a JSON file.</p>
 <h3>Preview:</h3>
 
