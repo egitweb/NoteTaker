@@ -36,10 +36,10 @@ To run this code, download the zip file, or use GitHub's guidelines to clone the
 Live Demo: https://evening-peak-72687.herokuapp.com/
 
 # Back - End Usage
-1.Run ``` node server ``` terminal command to start local server.
-2.Open Browser Type: localhost:3001
-3.App Should be running locally.
-4.To view Notes Data go to folder "db" open file "db.json".
+1.Run ``` node server ``` terminal command to start local server.<br>
+2.Open Browser Type: localhost:3001<br>
+3.App Should be running locally.<br>
+4.To view Notes Data go to folder "db" open file "db.json".<br>
 
 # Built&nbsp;With
 * [Visual Studios](https://visualstudio.microsoft.com/)
