@@ -4,7 +4,7 @@ const fs = require("fs");
 
 //Set Up For LocalServer
 const app = express();
-const port = 8080;
+const port = process.env.PORT || 3001;
 const mainDir = path.join(__dirname, "/public");
 
 app.use(express.static('public'));
